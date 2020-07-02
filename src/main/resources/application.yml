@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: reactivemicronaut
+  server:
+    port: 8082
+
+database:
+  url: r2dbc:postgresql://micronaut:secret@localhost/micronaut

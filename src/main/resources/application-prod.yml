@@ -1,0 +1,2 @@
+database:
+  url: r2dbc:postgresql://micronaut:secret@postgresdb/micronaut
